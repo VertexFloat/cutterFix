@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="69">
+    <author>VertexFloat</author>
+    <version>1.0.0.1</version>
+    <title>
+        <en>Cutter Fix</en>
+        <de>Schneidwerk-Fix</de>
+        <pl>Naprawiony Heder</pl>
+    </title>
+    <iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+
+    <description>
+<en>
+<![CDATA[Thanks to this modification when combine is turning on, cutter is not lowering automatically and not lifting automatically when turning off.
+
+Changelog (1.0.0.1) :
+- improved and more clearly code
+- improved mod description
+- new game screenshots
+- descVersion updated
+- new mod icon
+]]>
+</en>
+<de>
+<![CDATA[Dank dieser Modifikation senkt sich das Schneidwerk beim Einschalten des Mähdreschers nicht automatisch und hebt sich beim Ausschalten nicht automatisch.
+
+Änderungsprotokoll (1.0.0.1) :
+- verbesserter und übersichtlicherer Code
+- Modbeschreibung verbessert
+- descVersion aktualisiert
+- neue Spielscreenshots
+- Neues Mod-Symbol
+]]>
+</de>
+<pl>
+<![CDATA[Dzięki tej modyfikacji, gdy kombajn jest włączany, heder nie opuszcza się automatycznie i nie podnosi się automatycznie po wyłączeniu.
+
+Dziennik zmian (1.0.0.1) :
+- ulepszony i bardziej przejrzysty kod
+- poprawiony opis modyfikacji
+- zaktualizowano descVersion
+- nowe zrzuty ekranu z gry
+- nowa ikona modyfikacji
+]]>
+</pl>
+    </description>
+
+    <extraSourceFiles>
+        <sourceFile filename="src/misc/CutterFix.lua"/>
+    </extraSourceFiles>
+</modDesc>
