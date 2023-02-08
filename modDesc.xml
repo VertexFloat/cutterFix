@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="69">
-    <author>VertexFloat</author>
-    <version>1.0.0.1</version>
-    <title>
-        <en>Cutter Fix</en>
-        <de>Schneidwerk-Fix</de>
-        <pl>Naprawiony Heder</pl>
-    </title>
-    <iconFilename>icon.png</iconFilename>
-    <multiplayer supported="true"/>
+<?xml version='1.0' encoding='utf-8' standalone='no'?>
+<modDesc descVersion='72'>
+	<author>VertexFloat</author>
+	<version>1.0.0.2</version>
+	<title>
+		<en>Cutter Fix</en>
+		<de>Schneidwerk-Fix</de>
+		<pl>Naprawiony Heder</pl>
+	</title>
+	<iconFilename>icon.png</iconFilename>
+	<multiplayer supported='true'/>
 
-    <description>
+	<description>
 <en>
 <![CDATA[Thanks to this modification when combine is turning on, cutter is not lowering automatically and not lifting automatically when turning off.
 
@@ -20,6 +20,13 @@ Changelog (1.0.0.1) :
 - new game screenshots
 - descVersion updated
 - new mod icon
+
+Changelog (1.0.0.2) :
+- new game screenshots
+- descVersion updated
+- new mod icon
+
+For more information, help, and report issues please visit <a href='https://github.com/4c65736975/FS22_CutterFix'>GitHub</a>.
 ]]>
 </en>
 <de>
@@ -31,6 +38,13 @@ Changelog (1.0.0.1) :
 - descVersion aktualisiert
 - neue Spielscreenshots
 - Neues Mod-Symbol
+
+Änderungsprotokoll (1.0.0.2) :
+- descVersion aktualisiert
+- neue Spielscreenshots
+- Neues Mod-Symbol
+
+Weitere Informationen, Hilfe und Probleme melden finden Sie unter <a href='https://github.com/4c65736975/FS22_CutterFix'>GitHub</a>.
 ]]>
 </de>
 <pl>
@@ -42,11 +56,18 @@ Dziennik zmian (1.0.0.1) :
 - zaktualizowano descVersion
 - nowe zrzuty ekranu z gry
 - nowa ikona modyfikacji
+
+Dziennik zmian (1.0.0.2) :
+- zaktualizowano descVersion
+- nowe zrzuty ekranu z gry
+- nowa ikona modyfikacji
+
+Po więcej informacji, pomoc lub zgłoszenie błędu, odwiedź stronę <a href='https://github.com/4c65736975/FS22_CutterFix'>GitHub</a>.
 ]]>
 </pl>
-    </description>
+	</description>
 
-    <extraSourceFiles>
-        <sourceFile filename="src/misc/CutterFix.lua"/>
-    </extraSourceFiles>
+	<extraSourceFiles>
+		<sourceFile filename='src/CutterFix.lua'/>
+	</extraSourceFiles>
 </modDesc>
