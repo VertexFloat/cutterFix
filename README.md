@@ -2,7 +2,7 @@
 <br/>
 <div align='center'>
     <a href='https://github.com/4c65736975/cutterFix'>
-        <img src='screenshots/icon.png' alt='Logo' width='80' height='80'>
+        <img src='screenshots/icon.png' alt='Logo' width='128' height='128'>
     </a>
     <h3>Cutter Fix</h3>
     <p>
