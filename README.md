@@ -92,7 +92,7 @@ or
 
 ## License
 
-Distributed under the GPL-3.0 license. See [LICENSE](https://github.com/4c65736975/cutterFix/blob/main/LICENSE.md) for more information.
+Distributed under the GPL-3.0 license. See [LICENSE](https://github.com/4c65736975/cutterFix/blob/main/LICENSE) for more information.
 
 <p align="right">&#x2191 <a href="#top">back to top</a></p>
 
