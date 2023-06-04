@@ -1,80 +1,109 @@
 <?xml version='1.0' encoding='utf-8' standalone='no'?>
-<modDesc descVersion='73'>
+<modDesc descVersion='74'>
 	<author>VertexFloat</author>
-	<version>1.0.0.3</version>
+	<version>1.0.0.4</version>
 	<title>
 		<en>Cutter Fix</en>
 		<de>Schneidwerk-Fix</de>
+		<fr>Fixation De La Fraise</fr>
 		<pl>Naprawiony Heder</pl>
 	</title>
-	<iconFilename>icon.png</iconFilename>
-	<multiplayer supported='true'/>
-
 	<description>
-<en>
-<![CDATA[Thanks to this modification when combine is turning on, cutter is not lowering automatically and not lifting automatically when turning off.
+		<en><![CDATA[Thanks to this modification when combine is turning on, cutter is not lowering automatically and not lifting automatically when turning off.
 
-Changelog (1.0.0.1) :
+Changelog (1.0.0.1):
 - improved and more clearly code
 - improved mod description
 - new game screenshots
 - descVersion updated
 - new mod icon
 
-Changelog (1.0.0.2) :
+Changelog (1.0.0.2):
 - new game screenshots
 - descVersion updated
 - new mod icon
 
-Changelog (1.0.0.3) :
+Changelog (1.0.0.3):
 - descVersion updated
 
-For more information, help, and report issues please visit <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.
-]]>
-</en>
-<de>
-<![CDATA[Dank dieser Modifikation senkt sich das Schneidwerk beim Einschalten des Mähdreschers nicht automatisch und hebt sich beim Ausschalten nicht automatisch.
+Changelog (1.0.0.4):
+- improved screenshots
+- descVersion updated
+- improved mod icon
 
-Änderungsprotokoll (1.0.0.1) :
+For more information, help, and report issues please visit <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.]]></en>
+		<de><![CDATA[Dank dieser Modifikation senkt sich das Schneidwerk beim Einschalten des Mähdreschers nicht automatisch und hebt sich beim Ausschalten nicht automatisch.
+
+Änderungsprotokoll (1.0.0.1):
 - verbesserter und übersichtlicherer Code
 - Modbeschreibung verbessert
 - descVersion aktualisiert
 - neue Spielscreenshots
 - Neues Mod-Symbol
 
-Änderungsprotokoll (1.0.0.2) :
+Änderungsprotokoll (1.0.0.2):
 - descVersion aktualisiert
 - neue Spielscreenshots
 - Neues Mod-Symbol
 
-Änderungsprotokoll (1.0.0.3) :
+Änderungsprotokoll (1.0.0.3):
 - descVersion aktualisiert
 
-Weitere Informationen, Hilfe und Probleme melden finden Sie unter <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.
-]]>
-</de>
-<pl>
-<![CDATA[Dzięki tej modyfikacji, gdy kombajn jest włączany, heder nie opuszcza się automatycznie i nie podnosi się automatycznie po wyłączeniu.
+Änderungsprotokoll (1.0.0.4):
+- verbesserte Screenshots
+- descVersion aktualisiert
+- Verbessertes Mod-Icon
 
-Dziennik zmian (1.0.0.1) :
+Weitere Informationen, Hilfe und Probleme melden finden Sie unter <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.]]></de>
+		<fr><![CDATA[Grâce à cette modification lors de la mise en marche de la moissonneuse-batteuse, la fraise ne s'abaisse pas automatiquement et ne se soulève pas automatiquement lors de l'arrêt.
+
+Journal des modifications (1.0.0.1) :
+- code amélioré et plus clair
+- description améliorée du module
+- nouvelles captures d'écran du jeu
+- descVersion mise à jour
+- nouvelle icône de module
+
+Journal des modifications (1.0.0.2) :
+- nouvelles captures d'écran du jeu
+- descVersion mise à jour
+- nouvelle icône de module
+
+Journal des modifications (1.0.0.3) :
+- descVersion mise à jour
+
+Journal des modifications (1.0.0.4) :
+- captures d'écran améliorées
+- descVersion mise à jour
+- icône de mod améliorée
+
+Pour plus d'informations, de l'aide et signaler des problèmes, veuillez visiter <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.]]></fr>
+		<pl><![CDATA[Dzięki tej modyfikacji, gdy kombajn jest włączany, heder nie opuszcza się automatycznie i nie podnosi się automatycznie po wyłączeniu.
+
+Dziennik zmian (1.0.0.1):
 - ulepszony i bardziej przejrzysty kod
 - poprawiony opis modyfikacji
 - zaktualizowano descVersion
 - nowe zrzuty ekranu z gry
 - nowa ikona modyfikacji
 
-Dziennik zmian (1.0.0.2) :
+Dziennik zmian (1.0.0.2):
 - zaktualizowano descVersion
 - nowe zrzuty ekranu z gry
 - nowa ikona modyfikacji
 
-Dziennik zmian (1.0.0.3) :
+Dziennik zmian (1.0.0.3):
 - zaktualizowano descVersion
 
-Po więcej informacji, pomoc lub zgłoszenie błędu, odwiedź stronę <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.
-]]>
-</pl>
+Dziennik zmian (1.0.0.4):
+- ulepszone zrzuty ekranu
+- zaktualizowano descVersion
+- ulepszona ikona modyfikacji
+
+Po więcej informacji, pomoc lub zgłoszenie błędu, odwiedź stronę <a href='https://github.com/4c65736975/cutterFix'>GitHub</a>.]]></pl>
 	</description>
+	<iconFilename>icon_cutterFix.png</iconFilename>
+	<multiplayer supported='true'/>
 
 	<extraSourceFiles>
 		<sourceFile filename='src/CutterFix.lua'/>
