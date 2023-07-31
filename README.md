@@ -53,7 +53,7 @@ Thanks to this modification when combine is turning on, cutter is not lowering a
 
 ## Getting started
 
-If you want to install latest official version, you can [download](https://farming-simulator.com/mod.php?lang=en&country=us&mod_id=224494&title=fs2022) it like other mods.
+If you want to install latest official version, you can [download](https://www.farming-simulator.com/mod.php?mod_id=224494&title=fs2022) it like other mods.
 <br/>
 
 ### Prerequisites
