@@ -1,55 +1,57 @@
-<div id='top'></div>
+<div id="top"></div>
 <br/>
-<div align='center'>
-	<a href='https://github.com/4c65736975/cutterFix'>
-		<img src='screenshots/icon.png' alt='Logo' width='128' height='128'>
-	</a>
-	<h3>Cutter Fix</h3>
-	<p>
-		Farming Simulator 22 Modification
-		<br/>
-		<br/>
-		<a href='https://github.com/4c65736975/cutterFix/issues'>Report Bug</a>
-		·
-		<a href='https://github.com/4c65736975/cutterFix/issues'>Request Feature</a>
-	</p>
+<div align="center">
+  <a href="https://github.com/4c65736975/cutterFix">
+    <img src="screenshots/icon.png" alt="Logo" width="128" height="128">
+  </a>
+  <h3>Cutter Fix</h3>
+  <p>
+    Farming Simulator 22 Modification
+    <br/>
+    <br/>
+    <a href="https://github.com/4c65736975/cutterFix/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/4c65736975/cutterFix/issues">Request Feature</a>
+    ·
+    <a href="https://github.com/4c65736975/cutterFix/blob/main/CHANGELOG.md">Changelog</a>
+  </p>
 </div>
 <details>
-	<summary>Table of Contents</summary>
-	<ol>
-		<li>
-			<a href='#about-the-project'>About The Project</a>
-		</li>
-		<li>
-			<a href='#getting-started'>Getting Started</a>
-			<ul>
-				<li>
-					<a href='#prerequisites'>Prerequisites</a>
-				</li>
-				<li>
-					<a href='#installation'>Installation</a>
-				</li>
-			</ul>
-		</li>
-		<li>
-			<a href='#usage'>Usage</a>
-		</li>
-		<li>
-			<a href='#license'>License</a>
-		</li>
-		<li>
-			<a href='#acknowledgments'>Acknowledgments</a>
-		</li>
-	</ol>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li>
+          <a href="#prerequisites">Prerequisites</a>
+        </li>
+        <li>
+          <a href="#installation">Installation</a>
+        </li>
+      </ul>
+    </li>
+    <li>
+      <a href="#usage">Usage</a>
+    </li>
+    <li>
+      <a href="#license">License</a>
+    </li>
+    <li>
+      <a href="#acknowledgments">Acknowledgments</a>
+    </li>
+  </ol>
 </details>
 
 ## About the project
 
-<img src='screenshots/screenShot (1).png' alt='screenshot'>
+<img src="screenshots/screenShot (1).png" alt="screenshot">
 
 Thanks to this modification when combine is turning on, cutter is not lowering automatically and not lifting automatically when turning off.
 
-<p align='right'>&#x2191 <a href='#top'>back to top</a></p>
+<p align="right">&#x2191 <a href="#top">back to top</a></p>
 
 ## Getting started
 
@@ -80,25 +82,25 @@ or
 4. That's it, if everything went as it should, you can delete downloaded folder and zip file.
 5. Run the game and have a nice time.
 
-<p align='right'>&#x2191 <a href='#top'>back to top</a></p>
+<p align="right">&#x2191 <a href="#top">back to top</a></p>
 
 ## Usage
 
-<img src='screenshots/screenShot (2).png' alt='screenshot'>
-<img src='screenshots/screenShot (3).png' alt='screenshot'>
-<img src='screenshots/screenShot (4).png' alt='screenshot'>
+<img src="screenshots/screenShot (2).png" alt="screenshot">
+<img src="screenshots/screenShot (3).png" alt="screenshot">
+<img src="screenshots/screenShot (4).png" alt="screenshot">
 
-<p align='right'>&#x2191 <a href='#top'>back to top</a></p>
+<p align="right">&#x2191 <a href="#top">back to top</a></p>
 
 ## License
 
 Distributed under the GPL-3.0 license. See [LICENSE](https://github.com/4c65736975/cutterFix/blob/main/LICENSE) for more information.
 
-<p align='right'>&#x2191 <a href='#top'>back to top</a></p>
+<p align="right">&#x2191 <a href="#top">back to top</a></p>
 
 ## Acknowledgments
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Best README Template](https://github.com/othneildrew/Best-README-Template)
 
-<p align='right'>&#x2191 <a href='#top'>back to top</a></p>
+<p align="right">&#x2191 <a href="#top">back to top</a></p>
