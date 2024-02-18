@@ -16,7 +16,7 @@ Changelog (1.0.0.4):
 - descVersion updated
 - improved mod icon
 
-For more information, full changelog, help, and report issues please visit <a href="https://github.com/4c65736975/cutterFix">GitHub</a>.]]></en>
+For more information, full changelog, help, and report issues please visit <a href="https://github.com/VertexFloat/cutterFix">GitHub</a>.]]></en>
     <de><![CDATA[Dank dieser Modifikation senkt sich das Schneidwerk beim Einschalten des Mähdreschers nicht automatisch und hebt sich beim Ausschalten nicht automatisch.
 
 Änderungsprotokoll (1.0.0.4):
@@ -24,7 +24,7 @@ For more information, full changelog, help, and report issues please visit <a hr
 - descVersion aktualisiert
 - Verbessertes Mod-Icon
 
-Weitere Informationen, ein vollständiges Änderungsprotokoll, Hilfe und das Melden von Problemen finden Sie unter <a href="https://github.com/4c65736975/cutterFix">GitHub</a>.]]></de>
+Weitere Informationen, ein vollständiges Änderungsprotokoll, Hilfe und das Melden von Problemen finden Sie unter <a href="https://github.com/VertexFloat/cutterFix">GitHub</a>.]]></de>
     <fr><![CDATA[Grâce à cette modification lors de la mise en marche de la moissonneuse-batteuse, la fraise ne s'abaisse pas automatiquement et ne se soulève pas automatiquement lors de l'arrêt.
 
 Journal des modifications (1.0.0.4):
@@ -32,7 +32,7 @@ Journal des modifications (1.0.0.4):
 - descVersion mise à jour
 - icône de mod améliorée
 
-Pour plus d'informations, le journal des modifications complet, l'aide et signaler des problèmes, veuillez visiter <a href="https://github.com/4c65736975/cutterFix">GitHub</a>.]]></fr>
+Pour plus d'informations, le journal des modifications complet, l'aide et signaler des problèmes, veuillez visiter <a href="https://github.com/VertexFloat/cutterFix">GitHub</a>.]]></fr>
     <pl><![CDATA[Dzięki tej modyfikacji, gdy kombajn jest włączany, heder nie opuszcza się automatycznie i nie podnosi się automatycznie po wyłączeniu.
 
 Dziennik zmian (1.0.0.4):
@@ -40,7 +40,7 @@ Dziennik zmian (1.0.0.4):
 - zaktualizowano descVersion
 - ulepszona ikona modyfikacji
 
-Po więcej informacji, pełny dziennik zmian, pomoc lub zgłoszenie błędu, odwiedź stronę <a href="https://github.com/4c65736975/cutterFix">GitHub</a>.]]></pl>
+Po więcej informacji, pełny dziennik zmian, pomoc lub zgłoszenie błędu, odwiedź stronę <a href="https://github.com/VertexFloat/cutterFix">GitHub</a>.]]></pl>
   </description>
   <iconFilename>icon_cutterFix.png</iconFilename>
   <multiplayer supported="true"/>
